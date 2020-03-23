@@ -10,3 +10,8 @@ With a hope of controlling the epidemic, this machine learning problem is
 designed to cater the need of a prediction model
 that can predict the probability of a person getting infected by covid-19.
 
+Models Used:
+1.Linear Regression
+2.Logistic Regression
+3.Naive Bayes
+4.KNN
